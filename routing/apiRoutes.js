@@ -1,4 +1,4 @@
-const friends = require("../data/friends");
+const friends = require("../app/data/friends");
 
 module.exports = function(app) {
 
@@ -82,7 +82,7 @@ for (i=0;i<friends.length; i++){
 //! Need to get the information of that user & push it to the front end 
 //* send the matched user data to the front-end
 if (bff){
-  friends.push(bff);
+  friends.push(user);
   res.json(bff);
 }
 
@@ -95,3 +95,5 @@ if (bff){
   }
   );
 };
+
+//push the use that just answered questions from survey into the friends object

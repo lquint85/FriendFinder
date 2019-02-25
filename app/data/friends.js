@@ -7,7 +7,7 @@ let profileLog = [{
     },
     {
         name: "Batman",
-        photo: "https://media.licdn.com/dms/image/C4E03AQEvRaqHN5PGxQ/profile-displayphoto-shrink_200_200/0?e=1548892800&v=beta&t=j_LaEkLw9dt8mbZhRSBH0Xr8jDY2eEIZfENi6MZhRJs",
+        photo: "https://upload.wikimedia.org/wikipedia/en/8/87/Batman_DC_Comics.png",
         scores: [
             5,1,3,3, 5,3,2,3,4,1
         ]
@@ -57,7 +57,7 @@ let profileLog = [{
     },
     {
         name: "Two-face",
-        photo: "https://media.licdn.com/dms/image/C4E03AQEvRaqHN5PGxQ/profile-displayphoto-shrink_200_200/0?e=1548892800&v=beta&t=j_LaEkLw9dt8mbZhRSBH0Xr8jDY2eEIZfENi6MZhRJs",
+        photo: "https://upload.wikimedia.org/wikipedia/en/8/87/Batman_DC_Comics.png",
         scores: [
             5,4,4,4, 5,4,4,5,4,4
         ]
